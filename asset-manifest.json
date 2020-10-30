@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wagle/static/css/main.2ff3d120.chunk.css",
+    "main.js": "/wagle/static/js/main.960527a5.chunk.js",
+    "main.js.map": "/wagle/static/js/main.960527a5.chunk.js.map",
+    "runtime-main.js": "/wagle/static/js/runtime-main.b5531c7b.js",
+    "runtime-main.js.map": "/wagle/static/js/runtime-main.b5531c7b.js.map",
+    "static/js/2.802124f1.chunk.js": "/wagle/static/js/2.802124f1.chunk.js",
+    "static/js/2.802124f1.chunk.js.map": "/wagle/static/js/2.802124f1.chunk.js.map",
+    "index.html": "/wagle/index.html",
+    "precache-manifest.71bd21a36868ef40576f6e9e983cc52d.js": "/wagle/precache-manifest.71bd21a36868ef40576f6e9e983cc52d.js",
+    "service-worker.js": "/wagle/service-worker.js",
+    "static/css/main.2ff3d120.chunk.css.map": "/wagle/static/css/main.2ff3d120.chunk.css.map",
+    "static/js/2.802124f1.chunk.js.LICENSE.txt": "/wagle/static/js/2.802124f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5531c7b.js",
+    "static/js/2.802124f1.chunk.js",
+    "static/css/main.2ff3d120.chunk.css",
+    "static/js/main.960527a5.chunk.js"
+  ]
+}
